@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework01</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">TextView</string>
+    <string name="operator">Operator:</string>
+    <string name="value2">Value 2:</string>
+    <string name="value1">Value 1:</string>
+    <string name="first_value">Enter first value</string>
+    <string name="second_value">Enter second value</string>
+</resources>
